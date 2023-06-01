@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>UTS</title>
+	<meta name="author" content="l">
+	<meta name="description" content="Tag framset">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+</head>
+<body>
+	
+	<table width="100%" border="0" style="background-color:silver">
+		<tr>
+			<td width="70%" colspan="4">
+			<video controls autoplay loop width="100%">
+				<source src="video_2101082019/video_samsung_2101082019.mp4" type="video/mp4">
+			</td>
+		</tr>
+		<tr>
+			<td width="20%" >
+			<img src="images_2101082019/Samsung_2101082019/Samsung A33 5G 8GB 128GB_1_2101082019.webp" width="100%">
+			</td>
+			<td width="20%" >
+			<img src="images_2101082019/Samsung_2101082019/Samsung Galaxy A03s Ram_3_2101082019.webp" width="100%">
+			</td>
+			<td width="20%" >
+			<img src="images_2101082019/Samsung_2101082019/Samsung Galaxy A73 8 256GB 5G _2_2101082019.webp" width="100%">
+			</td>
+			<td width="20%" >
+			<img src="images_2101082019/Samsung_2101082019/Samsung Galaxy A73 8 256GB 5G _1_2101082019.webp" width="100%">
+			</td>
+		</tr>
+		
+	</table>
+	<hr>
+	
+	<p align="justify">
+		HP termurah | reseller utama | Raihan Efel Maulana | Samsung galaxy 5RE | Glasfont reseller termurah terlaris di indonesia<br>
+		<font size="4" color="orange">Rp. 1.100.000</font>
+	</p>
+	
+	<form action="" method="">
+		Jumlah Beli : <input type="number" size="10"><br>
+		Komentar	: <br>
+		<textarea cols="60" rows="5" placeholder="Silahkan diisi komentar"></textarea><br>
+		<input type="submit" style="background-color:green;color:white;padding:3px;border-radius:10px;font-size:16px" value="Beli">
+	</form>
+	
+	
+</body>
+</html>

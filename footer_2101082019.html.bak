@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>UTS 2101082019</title>
+	<meta name="author" content="">
+	<meta name="description" content="Tag framset">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+</head>
+<body style="background-color:#E2F0F9">
+	<marquee onmouseover="this.stop()" onmouseout="this.start()">
+		<font size="4" color="red">
+		Selamat Datang, Untuk Informasi Lebih Lanjut silahkan Hubungi </font>
+		<font size="5" color="red"><a href="tel:+628364537284647" style="text-decoration:none;color:orange">0893386462754736
+	</marquee>
+</body>
+</html>

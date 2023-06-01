@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>UTS_2101082019</title>
+	<meta name="author" content="Raihan Efel Maulana">
+	<meta name="description" content="Tag framset">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+</head>
+<body>
+	<h1 align="center">Detail Data Pribadi</h1>
+	<hr>
+	<img src="images_2101082019/gambar2_2101082019.jpeg" width="20%">
+	<table>	
+		<tr>
+			<td width="30%" ></td>
+			<td>Nama</td>
+			<td>:</td>
+			<td>Raihan Efel Maulana</td>
+		</tr>
+		<tr>
+			<td width="30%" ></td>
+			<td>Alamat</td>
+			<td>:</td>
+			<td>Jln.PasarBaru Kecamatan Pauh Kota Padang</td>
+			</td>
+		</tr>
+		<tr>
+			<td width="30%" ></td>
+			<td>Email</td>
+			<td>:</td>
+			<td>rr161475@gmail.com</td>
+			</td>
+		</tr>
+		<tr>
+			<td width="30%" ></td>
+			<td>Pekerjaan</td>
+			<td>:</td>
+			<td>Mahasiswa</td>
+			</td>
+		</tr>
+	</table>
+	
+</body>
+</html>

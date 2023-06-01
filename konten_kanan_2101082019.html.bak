@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>UTS_2101082019</title>
+	<meta name="author" content="Raihan Efel Maulana">
+	<meta name="description" content="Tag framset">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+</head>
+<body style="background-color:#D8CFD0">
+	
+	<p align="center">
+	<a href="https://facebook.com/" target="_blank">
+	<img src="images_2101082019/Sosmed_2101082019/fb_2101082019.png" style="width:30px;height:30px;border-radius:50%;padding:5px">
+	</a>
+	
+	<a href="profile_2101082019.html" target="efel">
+	<img src="images_2101082019/Sosmed_2101082019/person_2101082019.jpg" style="width:30px;height:30px;border-radius:50%;padding:5px">
+	</a>
+
+	<a href="konten_tengah_2101082019.html" target="efel">
+	<img src="images_2101082019/Sosmed_2101082019/home_2101082019.jpg" style="width:30px;height:30px;border-radius:50%;padding:5px">
+	</a>
+	</p>
+	
+	<br><br>
+	<p align="center">Smartphone</p>
+	<hr>
+	<ul>
+		<li><a href="samsung_2101082019.html" style="text-decoration:none;color:black" target="efel">Samsung</a></li>
+		<li><a href="vivo_2101082019.html" style="text-decoration:none;color:black" target="efel">Vivo</a></li>
+	</ul>
+	
+	<p align="center">Video</p>
+	<hr>
+	<iframe width="100%" height="50%" src="video_2101082019/video_samsung_2101082019.mp4"></iframe>
+	
+	<p align="center">Kontak Person</p>
+	<hr>
+	CS:Senin-Sabtu 08.00 - 17.00 <br>
+	Transfer BNI : 22736464<br>
+	Pengiriman : Senin-Sabtu<br>
+</body>
+</html>

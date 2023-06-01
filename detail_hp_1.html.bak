@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>UTS</title>
+	<meta name="author" content="l">
+	<meta name="description" content="Tag framset">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+</head>
+<body>
+	
+	<table width="100%" border="0" style="background-color:silver">
+		<tr>
+			<td width="70%" colspan="4">
+			<video controls autoplay loop width="100%">
+				<source src="video/video_samsung.mp4" type="video/mp4">
+			</td>
+			<td width="30%" >
+			<img src="images/Samsung/gambar_4.webp" width="100%">
+			</td>
+		</tr>
+		<tr>
+			<td width="30%" >
+			<img src="images/Samsung/gambar_5.webp" width="100%">
+			</td>
+		</tr>
+		<tr>
+			<td width="30%" >
+			<img src="images/Samsung/gambar_6.webp" width="100%">
+			</td>
+		</tr>
+		<tr>
+			<td width="30%" >
+			<img src="images/Samsung/gambar_4.webp" width="100%">
+			</td>
+		</tr>
+	</table>
+	<hr>
+	
+	<p align="justify">
+		HP termurah | reseller utama | <br>
+		<font size="4" color="red">Rp. 1.100.000</font>
+	</p>
+	
+	<form action="" method="">
+		Jumlah Beli : <input type="number" size="10"><br>
+		Komentar	: <br>
+		<textarea cols="90" rows="5" placeholder="Silahkan diisi komentar"></textarea><br>
+		<input type="submit" style="background-color:green;color:white;padding:6px;border-radius:10px;font-size:16px" value="Beli">
+	</form>
+	
+	
+</body>
+</html>
